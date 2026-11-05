@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-core-react-native",
+  "capabilityKey": "liberusoftware/real-estate-core",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-real-estate-core-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/real-estate/nextjs/core.md",
+  "presentationPlan": "projects/real-estate/react-native/core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
